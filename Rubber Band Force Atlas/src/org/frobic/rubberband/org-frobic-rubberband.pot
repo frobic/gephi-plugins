@@ -1,0 +1,119 @@
+# Translation file for Gephi.
+# Copyright (C) 2011 Gephi contributors.
+# This file is distributed under the same license as the Gephi package.
+# Gephi Team <gephi.team@lists.launchpad.net>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Gephi 0.8\n"
+"Report-Msgid-Bugs-To: gephi.team@lists.launchpad.net\n"
+"POT-Creation-Date: 2011-08-05 14:52+0200\n"
+"PO-Revision-Date: 2011-08-05 14:52+0200\n"
+"Last-Translator: Mathieu Bastian <gephi.team@lists.launchpad.net>\n"
+"Language-Team: English <https://launchpad.net/~gephi.team>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Rubberband.name"
+msgstr "ForceAtlas 2"
+
+msgid "Rubberband.description"
+msgstr ""
+"Quality layout: a linear-attraction linear-repulsion model with few "
+"approximations (BarnesHut). Speed automatically computed."
+
+msgid "Rubberband.tuning"
+msgstr "Tuning"
+
+msgid "Rubberband.behavior"
+msgstr "Behavior Alternatives"
+
+msgid "Rubberband.performance"
+msgstr "Performance"
+
+msgid "Rubberband.threads"
+msgstr "Threads"
+
+msgid "Rubberband.scalingRatio.name"
+msgstr "Scaling"
+
+msgid "Rubberband.scalingRatio.desc"
+msgstr "How much repulsion you want. More makes a more sparse graph."
+
+msgid "Rubberband.gravity.name"
+msgstr "Gravity"
+
+msgid "Rubberband.gravity.desc"
+msgstr "Attracts nodes to the center. Prevents islands from drifting away."
+
+msgid "Rubberband.strongGravityMode.name"
+msgstr "Stronger Gravity"
+
+msgid "Rubberband.strongGravityMode.desc"
+msgstr "A stronger gravity law"
+
+msgid "Rubberband.distributedAttraction.name"
+msgstr "Dissuade Hubs"
+
+msgid "Rubberband.distributedAttraction.desc"
+msgstr ""
+"Distributes attraction along outbound edges. Hubs attract less and thus are "
+"pushed to the borders."
+
+msgid "Rubberband.linLogMode.name"
+msgstr "LinLog mode"
+
+msgid "Rubberband.linLogMode.desc"
+msgstr ""
+"Switch ForceAtlas' model from lin-lin to lin-log (tribute to Andreas Noack). "
+"Makes clusters more tight."
+
+msgid "Rubberband.adjustSizes.name"
+msgstr "Prevent Overlap"
+
+msgid "Rubberband.adjustSizes.desc"
+msgstr ""
+"Use only when spatialized. Should not be used with \"Approximate Repulsion\""
+
+msgid "Rubberband.disableString.name"
+msgstr "Disable Strings"
+
+msgid "Rubberband.disableString.desc"
+msgstr ""
+"Use only when spatialized. Should not be used with \"Approximate Repulsion\""
+
+msgid "Rubberband.jitterTolerance.name"
+msgstr "Tolerance (speed)"
+
+msgid "Rubberband.jitterTolerance.desc"
+msgstr ""
+"How much swinging you allow. Above 1 discouraged. Lower gives less speed and "
+"more precision."
+
+msgid "Rubberband.barnesHutOptimization.name"
+msgstr "Approximate Repulsion"
+
+msgid "Rubberband.barnesHutOptimization.desc"
+msgstr ""
+"Barnes Hut optimization: n complexity to n.ln(n) ; allows larger graphs."
+
+msgid "Rubberband.barnesHutTheta.name"
+msgstr "Approximation"
+
+msgid "Rubberband.barnesHutTheta.desc"
+msgstr "Theta of the Barnes Hut optimization."
+
+msgid "Rubberband.edgeWeightInfluence.name"
+msgstr "Edge Weight Influence"
+
+msgid "Rubberband.edgeWeightInfluence.desc"
+msgstr ""
+"How much influence you give to the edges weight. 0 is \"no influence\" and 1 "
+"is \"normal\"."
+
+msgid "Rubberband.threads.name"
+msgstr "Threads number"
+
+msgid "Rubberband.threads.desc"
+msgstr "More threads means more speed if your cores can handle it."

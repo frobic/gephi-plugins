@@ -1,0 +1,53 @@
+# Translation file for Gephi.
+# Copyright (C) 2011 Gephi contributors.
+# This file is distributed under the same license as the Gephi package.
+# Gephi Team <gephi.team@lists.launchpad.net>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Gephi 0.8\n"
+"Report-Msgid-Bugs-To: gephi.team@lists.launchpad.net\n"
+"POT-Creation-Date: 2011-08-05 14:52+0200\n"
+"PO-Revision-Date: 2011-08-05 14:52+0200\n"
+"Last-Translator: Mathieu Bastian <gephi.team@lists.launchpad.net>\n"
+"Language-Team: English <https://launchpad.net/~gephi.team>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "NewNodeRenderer.name"
+msgstr "Default nodes"
+
+msgid "NewNodeRenderer.property.borderWidth.displayName"
+msgstr "Border Width"
+
+msgid "NewNodeRenderer.property.borderColor.displayName"
+msgstr "Border Color"
+
+msgid "NewNodeRenderer.property.opacity.displayName"
+msgstr "opacity"
+
+msgid "NewEdgeRenderer.name"
+msgstr "Default edges"
+
+msgid "NewEdgeRenderer.property.display.displayName"
+msgstr "Show Edges"
+
+msgid "NewEdgeRenderer.property.thickness.displayName"
+msgstr "Thickness"
+
+msgid "NewEdgeRenderer.property.rescaleWeight.displayName"
+msgstr "Rescale weight"
+
+msgid "NewEdgeRenderer.property.curvedEdges.displayName"
+msgstr "Curved"
+
+msgid "NewEdgeRenderer.property.color.displayName"
+msgstr "Color"
+
+msgid "NewEdgeRenderer.property.opacity.displayName"
+msgstr "Opacity"
+
+msgid "NewEdgeRenderer.property.radius.displayName"
+msgstr "Radius"
+
